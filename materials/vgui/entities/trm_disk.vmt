@@ -1,0 +1,7 @@
+"UnlitGeneric" 
+{ 
+	"$basetexture"		"vgui/entities/trm_disk"
+	"$nolod" 1
+	"$vertexalpha" 1
+	"$vertexcolor" 1
+} 

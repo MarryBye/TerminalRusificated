@@ -1,0 +1,34 @@
+"vertexlitgeneric"
+{
+	"$basetexture"	 "models\unconid\pc_models\data_storage\floppy_3_5"
+	"$bumpmap"	 "models\unconid\pc_models\data_storage\floppy_3_5_normal"
+
+	"$phong" "1"
+	"$phongexponent" "14"
+	"$phongboost"	"1.5"
+	"$phongfresnelranges"	"[.2 4 1]"
+
+	"$rimlight" "1"												
+	"$rimlightexponent" "1"				
+	"$rimlightboost" ".3"
+
+	"360?$color2" "[ 0.4 0.4 0.4 ]"
+	"$blendtintbybasealpha"		"1"
+	"$blendtintcoloroverbase"		"0"
+	"$colortint_base"		"{ 40 40 40 }"
+	"$color2" "{ 40 40 40 }"
+	"$colortint_tmp"		"[0 0 0]"
+	"$bumpmapalphaphongmask"		"1"
+	"$cloakPassEnabled"		"1"
+	"$detail"		"effects/tiledfire/fireLayeredSlowTiled512"
+	"$detailscale"		"5"
+	"$detailblendfactor"		"0"
+	"$detailblendmode"		"6"
+	"$yellow"		"0"
+	">=DX90"
+	{
+		"$selfillum"		"0"
+	}
+
+
+}

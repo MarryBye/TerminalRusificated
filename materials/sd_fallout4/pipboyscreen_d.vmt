@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "sd_fallout4\pipboyscreen_d"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" "1"
+	"$phong" "1"
+	"$phongexponent" "4"
+	"$phongboost"	"1"
+	"$phongfresnelranges"	"[1 1 1]"
+	"$envmaptint" "[0.3 0.3 0.3]"
+}
